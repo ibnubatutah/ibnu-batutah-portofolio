@@ -24,8 +24,8 @@ Perkenalkan nama saya Ibnu Batutah dan selamat datang di website portofolio saya
 *   **Admin Support:** Mahir dalam manajemen dokumen, input data akurat, dan familiar dengan sistem **SAP & ERP**.
 
 ## 🔗 Live Demo
-Cek website portofolio saya di sini: [https://username.github.io/](https://username.github.io/)
+Cek website portofolio saya di sini: [https://ibnubatutah.github.io/ibnu-batutah-portofolio/]
 
 ## 📩 Kontak
 Email: ibnubatutah119@gmail.com
-LinkedIn: [linkedin.com/in/ibnubatutah](https://ibnubatutah.github.io/ibnu-batutah-portofolio/)
+LinkedIn: [linkedin.com/in/ibnubatutah]
