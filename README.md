@@ -28,4 +28,4 @@ Cek website portofolio saya di sini: [https://ibnubatutah.github.io/ibnu-batutah
 
 ## 📩 Kontak
 Email: ibnubatutah119@gmail.com
-LinkedIn: [linkedin.com/in/ibnubatutah]
+LinkedIn: [https://linkedin.com/in/ibnubatutah]
